@@ -37,12 +37,12 @@ cd video_caption_app
 pip install -r requirements.txt
 ```
 
-## Deployment
+Deployment
+You can access the live applications hosted on Streamlit Community Cloud:
 
-Streamlit Community Cloud
-![V-1](https://videocaptions-aigit-codingdidi.streamlit.app/)
-![V-2](https://codingdidi.streamlit.app/)
+[Video Captions Generator](https://videocaptions-aigit-codingdidi.streamlit.app/) – A specialised tool for generating automated video captions.
+
+[Main Application Dashboard](https://codingdidi.streamlit.app/) – The primary interface for project features and utilities.
 
 ## License
-
-MIT License — free to use and modify.
+This project is licensed under the MIT License.
