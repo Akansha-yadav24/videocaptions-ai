@@ -27,21 +27,21 @@ It supports **automatic transcription, translation, styling, and subtitle export
 
 ---
 
-# 🚀 Quick Start
+# Begin with
 
-## 1️⃣ Install Dependencies
+## 1️⃣ Installing Dependencies
 
 ```bash
 git clone https://github.com/Akansha-yadav24/videocaptions-ai.git
 cd video_caption_app
 pip install -r requirements.txt
-'''
+```
 
 ## Deployment
 
 Streamlit Community Cloud
-V-1	https://videocaptions-aigit-codingdidi.streamlit.app/
-V-2	https://codingdidi.streamlit.app/
+![V-1](https://videocaptions-aigit-codingdidi.streamlit.app/)
+![V-2](https://codingdidi.streamlit.app/)
 
 ## License
 
