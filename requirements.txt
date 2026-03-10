@@ -1,0 +1,22 @@
+# VideoCaptions AI — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML — transcription
+openai-whisper>=20231117
+torch>=2.0.0
+
+# Translation fallback
+deep-translator>=1.11.4
+
+# Web app
+streamlit>=1.35.0
+
+# Image processing — live preview
+Pillow>=10.0.0
+
+# FFmpeg Python binding
+ffmpeg-python>=0.2.0
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0

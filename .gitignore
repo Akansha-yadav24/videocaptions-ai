@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Whisper model cache
+~/.cache/whisper/
+
+# Temp / output files
+*.mp4
+*.mov
+*.m4v
+*.srt
+*.ass
+tmp*/
+temp*/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
